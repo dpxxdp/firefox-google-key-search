@@ -1,0 +1,32 @@
+{
+  "name": "google-search-keyboard-shortcuts",
+  "description": "keyboard shortcuts for power users doing fast research with google search",
+  "main": "index.js",
+  "authors": [
+    "Daniel Patrick"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jetpack",
+    "keyboard",
+    "key",
+    "shortcuts",
+    "google",
+    "results",
+    "google",
+    "search",
+    "power",
+    "user"
+  ],
+  "homepage": "https://github.com/dpxxdp/firefox-google-key-search",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
